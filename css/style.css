@@ -60,7 +60,7 @@ body{
 @media (min-width:1px) and (max-width:480px) {
     
     body{
-        background-size: contain;
+        background-size: cover;
+        background: top;
     }
-
 }
