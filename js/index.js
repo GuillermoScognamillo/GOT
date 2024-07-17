@@ -32,7 +32,7 @@ const molestarDrogon = () => {
             $body.classList.remove('tNaranja');
             $body.classList.add('Naranja');
         } ,2000);
-        $boton.innerText='Dale nomás'
+        $boton.innerText='BOOP BOOP'
     }
     else if ($body.classList.contains('Naranja')){
         removerBoton();
