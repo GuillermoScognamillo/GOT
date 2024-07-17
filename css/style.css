@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+
+
+.btn-molestar{
+    background-color: #1E1B20;
+    color: #FED57C;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.btn-molestar:hover{
+    box-shadow: red 0 0 2px;
+}
+
+.oculto{
+    display: none;
+}
+
+
+body{
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+}
+
+.verde{
+    background-image: url(../public/Imagenes/Drogon\ 00.jpg);
+}
+
+.tAmarillo{
+    background-image: url(../public/Gif/Drogon\ 01.gif);
+}
+
+.Amarillo{
+    background-image: url(../public/Imagenes/Drogon\ 01.jpg);    
+}
+
+.tNaranja{
+    background-image: url(../public/Gif/Drogon\ 02.gif);
+}
+
+.Naranja{
+    background-image: url(../public/Imagenes/Drogon\ 02.jpg);    
+}
+
+.tRojo{
+    background-image: url(../public/Gif/Drogon\ 03.gif);
+}
+
+.Rojo{
+    background-image: url(../public/Imagenes/Drogon\ 03.jpg);    
+}
