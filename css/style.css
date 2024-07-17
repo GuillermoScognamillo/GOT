@@ -56,3 +56,11 @@ body{
 .Rojo{
     background-image: url(../public/Imagenes/Drogon\ 03.jpg);    
 }
+
+@media (min-width:1px) and (max-width:480px) {
+    
+    body{
+        background-size: contain;
+    }
+
+}
