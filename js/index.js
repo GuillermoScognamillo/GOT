@@ -43,7 +43,7 @@ const molestarDrogon = () => {
             $body.classList.remove('tRojo');
             $body.classList.add('Rojo');
         } ,3000);
-        $boton.innerText='Revivir'
+        $boton.innerText='Estas muerto, revivir'
     }
     else if ($body.classList.contains('Rojo')){
         removerBoton();
