@@ -29,6 +29,12 @@ body{
     justify-content: center;
     margin-top: 300px;
     padding: 20px;
+    min-width: 500px;
+    min-height: 500px;
+}
+
+.tocar:hover{
+    cursor: pointer;
 }
 
 .verde{
